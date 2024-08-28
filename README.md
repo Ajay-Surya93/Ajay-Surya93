@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ajaysurya.B
+# Hi there 👋, I'm Ajaysurya
 
 ## Aspiring Machine Learning Engineer | Python Developer | Tech Enthusiast
 
