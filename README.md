@@ -1,28 +1,24 @@
-# Hi there 👋, I'm Ajaysurya
+👋 Hi, I'm Ajaysurya!
+🚀 Aspiring Full Stack Developer | 🐍 Python Enthusiast | 💻 MERN Stack Learner
 
-## Aspiring Machine Learning Engineer | Python Developer | Tech Enthusiast
+🌟 About Me
+I am a passionate and dedicated developer with a strong foundation in Python, Data Structures, and Algorithms. Currently, I'm expanding my skill set in Full Stack Development using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-I'm a passionate and dedicated learner with a strong interest in machine learning and data science. Currently, I'm developing my skills in:
-- Python programming
-- Algorithms
-- Statistical analysis
+I love solving problems, building scalable applications, and exploring new technologies to stay ahead in the ever-evolving tech landscape. My goal is to create seamless, user-friendly web applications that make a difference.
 
-### 🔭 What I'm working on:
-- **Machine Learning Projects:** Applying algorithms and data science techniques to solve real-world problems.
-- **Python Development:** Building small utilities and automation scripts to deepen my programming expertise.
+🔧 Tech Stack & Skills
+Languages: Python, JavaScript
+Frontend: React.js, HTML, CSS
+Backend: Node.js, Express.js
+Database: MongoDB, SQL
+Other Tools: Git, GitHub, REST APIs, Postman
+📌 Current Focus
+🌱 Learning MERN Stack Development
+⚡ Improving Data Structures & Algorithms
+💡 Exploring Cloud & DevOps
 
-### 🌱 What I'm learning:
-- Machine Learning models and their implementation using libraries like TensorFlow, Scikit-Learn, and PyTorch.
-- Advanced Python, data structures, and algorithms to sharpen my problem-solving skills.
-- Statistical analysis and data visualization.
-
-### ⚡ Fun fact:
-I am excited about the potential of AI and machine learning to drive innovation in every industry.
-
-### 💬 Let's connect:
-- [LinkedIn](www.linkedin.com/in/ajay-surya-05487a213)
-- [Email](mailto:ajayraw1256@gmail.com)
-
----
-
-Feel free to check out my projects and collaborate on anything interesting. I'm always open to networking and exploring new opportunities!
+📫 Let's Connect!
+LinkedIn: https://www.linkedin.com/in/ajay-surya-05487a213/
+Twitter/X: Your Twitter Handle
+Portfolio: Your Portfolio (if any)
+🚀 Open to collaboration and exciting projects! Let’s build something amazing together!
