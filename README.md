@@ -12,8 +12,8 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 💬 Ask me about
 
 - Frontend development with React and TypeScript
-- Backend development with Node.js and Express
-- 
+- Backend development with Node.js and Express.js
+
 ## 📫 How to reach me
 
 - **Email**: [ajayraw1256@gmail.com](mailto:ajayraw1256@example.com)
